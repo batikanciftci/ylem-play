@@ -1,0 +1,306 @@
+[
+  {
+    "id": "milkyway",
+    "file": "milkyway.webp",
+    "size": 2048,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.998,
+      0.899
+    ],
+    "extent": 0.629,
+    "ratio": 1,
+    "angle": 0,
+    "name": "Milky Way",
+    "object": "UGC 12158, a barred spiral much like the Milky Way, standing in for it",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1035a/"
+  },
+  {
+    "id": "andromeda",
+    "file": "andromeda.webp",
+    "size": 4096,
+    "aspect": 0.42,
+    "colour": [
+      1.0,
+      0.715,
+      0.644
+    ],
+    "extent": 0.786,
+    "ratio": 0.31,
+    "angle": -5,
+    "name": "Andromeda",
+    "object": "M31, the Andromeda Galaxy, in Hubble's largest mosaic (PHAT and PHAST); its uncovered strips filled from the galaxy turned half a turn, M32 lifted out",
+    "credit": "NASA, ESA, Benjamin Williams (UWashington), Zhuo Chen (UWashington), L. Clifton Johnson (Northwestern); image processing: Joseph DePasquale (STScI)",
+    "license": "NASA (public domain); ESA material CC BY 4.0",
+    "page": "https://science.nasa.gov/asset/hubble/hubble-m31-phatphast-mosaic/"
+  },
+  {
+    "id": "smc",
+    "file": "smc.webp",
+    "size": 1536,
+    "aspect": 1.0,
+    "colour": [
+      0.713,
+      0.823,
+      1.0
+    ],
+    "extent": 0.712,
+    "ratio": 0.6,
+    "angle": -8,
+    "name": "Small Magellanic Cloud",
+    "object": "DDO 68, a dwarf irregular drawn out by a companion, standing in for the Small Magellanic Cloud",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/heic1421a/"
+  },
+  {
+    "id": "dwarf-ugc8091",
+    "file": "dwarf-ugc8091.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.664,
+      0.867
+    ],
+    "extent": 0.739,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "UGC 8091, a dwarf irregular galaxy",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/heic2313a/"
+  },
+  {
+    "id": "dwarf-dishevelled",
+    "file": "dwarf-dishevelled.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.878,
+      0.973
+    ],
+    "extent": 0.732,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "A dishevelled irregular galaxy (ESA/Hubble picture of the week potw2324a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw2324a/"
+  },
+  {
+    "id": "dwarf-disorganised",
+    "file": "dwarf-disorganised.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.684,
+      0.751
+    ],
+    "extent": 0.798,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "A disorganised dwarf galaxy (ESA/Hubble potw1613a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1613a/"
+  },
+  {
+    "id": "dwarf-pinkcore",
+    "file": "dwarf-pinkcore.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.788,
+      0.845
+    ],
+    "extent": 0.674,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "A dwarf galaxy with violent star formation (ESA/Hubble potw1243a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1243a/"
+  },
+  {
+    "id": "dwarf-archetypal",
+    "file": "dwarf-archetypal.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      0.937,
+      0.924,
+      1.0
+    ],
+    "extent": 0.667,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "An archetypal dwarf galaxy (ESA/Hubble potw1301a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1301a/"
+  },
+  {
+    "id": "dwarf-blue",
+    "file": "dwarf-blue.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      0.63,
+      0.76,
+      1.0
+    ],
+    "extent": 0.66,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "A blue dwarf irregular galaxy (ESA/Hubble potw1739a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1739a/"
+  },
+  {
+    "id": "dwarf-piscesa",
+    "file": "dwarf-piscesa.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      0.753,
+      0.864,
+      1.0
+    ],
+    "extent": 0.746,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "Pisces A, a dwarf galaxy",
+    "credit": "NASA, ESA, and E. Tollerud (STScI)",
+    "license": "NASA (public domain); ESA material CC BY 4.0",
+    "page": "https://esahubble.org/images/opo1629b/"
+  },
+  {
+    "id": "dwarf-compact",
+    "file": "dwarf-compact.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      0.943,
+      0.98,
+      1.0
+    ],
+    "extent": 0.637,
+    "ratio": 1,
+    "angle": 0,
+    "name": "dwarf",
+    "object": "A compact dwarf galaxy (ESA/Hubble potw1224a)",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1224a/"
+  },
+  {
+    "id": "ngc205",
+    "file": "ngc205.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      0.954,
+      1.0,
+      0.983
+    ],
+    "extent": 0.659,
+    "ratio": 1,
+    "angle": 0,
+    "name": "NGC 205",
+    "object": "A young elliptical galaxy (ESA/Hubble potw1546a), standing in for NGC 205",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw1546a/"
+  },
+  {
+    "id": "lmc",
+    "file": "lmc.webp",
+    "size": 2048,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.911,
+      0.981
+    ],
+    "extent": 0.8,
+    "ratio": 1,
+    "angle": 0,
+    "name": "Large Magellanic Cloud",
+    "object": "NGC 4449, a Magellanic-type irregular galaxy bright with star formation, standing in for the Large Magellanic Cloud",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/heic0711a/"
+  },
+  {
+    "id": "triangulum",
+    "file": "triangulum.webp",
+    "size": 2048,
+    "aspect": 1.0,
+    "colour": [
+      0.925,
+      0.907,
+      1.0
+    ],
+    "extent": 0.766,
+    "ratio": 0.6,
+    "angle": -28,
+    "name": "Triangulum",
+    "object": "NGC 3370, a spiral tilted much as M33 is, standing in for the Triangulum Galaxy",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/potw2542a/"
+  },
+  {
+    "id": "m32",
+    "file": "m32.webp",
+    "size": 1024,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.986,
+      0.859
+    ],
+    "extent": 0.595,
+    "ratio": 1,
+    "angle": 0,
+    "name": "M32",
+    "object": "NGC 4150, a compact elliptical galaxy, standing in for M32",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/opo1038b/"
+  },
+  {
+    "id": "giant",
+    "file": "giant.webp",
+    "size": 2048,
+    "aspect": 1.0,
+    "colour": [
+      1.0,
+      0.948,
+      0.962
+    ],
+    "extent": 0.604,
+    "ratio": 1,
+    "angle": 0,
+    "name": "Milkomeda",
+    "object": "IC 2006, a giant elliptical galaxy: what the Milky Way and Andromeda become together",
+    "credit": "ESA/Hubble & NASA",
+    "license": "CC BY 4.0",
+    "page": "https://esahubble.org/images/heic1508a/"
+  }
+]
